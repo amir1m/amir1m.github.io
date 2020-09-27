@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: "Amir Mukeri"
+excerpt: "Data Science and Machine Learning Enthusiast and Researcher"
 author_profile: true
 redirect_from:
   - /about/
