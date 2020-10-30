@@ -1,14 +1,14 @@
 ---
-title: "Support Vector Machine and Principal Component Analysis for Intrusion Detection System"
-collection: Volume-14, Issue-3
-#permalink: https://imanagerpublications.com/article/17592/
-excerpt: "In this paper we applied Support Vector Machine to train Network Intrusion Detection System with and without Principal Component Analysis."
-date: 7-10-2020
-venue: 'i-Manager's Journal on Software Engineering'
-paperurl: 'https://imanagerpublications.com/article/17592/'
-citation: 'Mukeri, A., and Gaikwad, D. P. (2020). Support Vector Machine and Principal Component Analysis for Intrusion Detection System. i-manager\'s Journal on Software Engineering, 14(3), 42-49.'
+title: "Fine Tuned Deep Neural Networks for Intrusion Detection System"
+collection: Volume-6, Issue-2 (May-August, 2020)
+#permalink: http://matjournals.in/index.php/JONSCN/article/view/5143
+excerpt: 'This paper is about improving the classification capabilities  of Network Intrusion Detection System (NIDS). Here we experimented with various architectures of DNNs, from smaller/shallow neural networks to more complex networks. To avoid overfitting we  made use techniques such as dropout and regularization. For tuning Hyper-parameters we used techniques such as random search, grid search, Hyperband & Bayesian Optimization. Use of these techniques gradually reduces the time required to tune the DNN as well as bounding the validation error.'
+date: 2020-05-01
+venue: 'Journal of Network Security Computer Networks'
+paperurl: 'http://matjournals.in/index.php/JONSCN/article/view/5143'
+citation: 'D. P. Gaikwad, Amir Mukeri. (2020). &quot;Fine Tuned Deep Neural Networks for Intrusion Detection System.&quot; <i>Journal of Network Security Computer Networks</i>. 6(2).'
 ---
 
-In this paper we have applied Support Vector Machine to train Network Intrusion Detection System with and without Principal Component Analysis.
+This paper is about improving the classification capabilities  of Network Intrusion Detection System (NIDS). Here we experimented with various architectures of DNNs, from smaller/shallow neural networks to more complex networks. To avoid overfitting we  made use techniques such as dropout and regularization. For tuning Hyper-parameters we used techniques such as random search, grid search, Hyperband & Bayesian Optimization. Use of these techniques gradually reduces the time required to tune the DNN as well as bounding the validation error.
 
-[Download paper here](https://imanagerpublications.com/article/17592/)
+[Download paper here](http://matjournals.in/index.php/JONSCN/article/view/5143)
